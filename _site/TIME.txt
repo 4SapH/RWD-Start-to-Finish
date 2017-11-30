@@ -1,0 +1,6 @@
+https://www.youtube.com/watch?v=D2W_oqMM19k&list=PLqGj3iMvMa4KQZUkRjfwMmTq_f1fbxerI&index=8
+00:00
+
+FIX: footer (to stay on bottom) + size
+footer logo experiment
+float footer bv ba
